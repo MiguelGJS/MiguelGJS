@@ -3,7 +3,7 @@
 * **Name**: Miguel Guimarães
 * **Age**: 18
 * **Living in**: Minas Gerais, Brazil
-* **Stack**: Java - C++
+* **Stack**: Java 
 * **University**: Mathematical Sciences at Federal University of Juiz de Fora (UFJF).
 ##
  <div>
